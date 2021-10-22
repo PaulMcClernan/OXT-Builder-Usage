@@ -1,5 +1,5 @@
-# LiveCodeBuilder-Library-Usage
-LCB Library Tutorial - How to compile, install, and include LiveCode Builder Libraries in standalone apps
+# Builder Usage
+OXT Builder Tutorial - How to compile, install, and include Builder Libraries and GUI Widgets in stacks and standalone apps
 
 ## Step 1 Compile
 Extention Builder
